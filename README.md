@@ -10,7 +10,7 @@ Here are the projects I am showcasing:
    - Repository: [Playwright Project](https://github.com/vidhapratiwi/saucedemo-playwright-automation.git)
    - Repository: [Selenium Project]()  
    - Description: Manual and automated test cases for SauceDemo, a demo e-commerce website for testing shopping features like browsing products, adding items to the cart, and completing the checkout process.
-   - **Test Case Manual**: [Test Cases (Google Sheets)](https://docs.google.com/spreadsheets/d/1dOwXQu2S-5HcOUE6O-ZV6PRc46ur9njVlJkksYby0y8/edit?usp=sharing)  
+   - **Test Case Manual**: [Test Cases (Google Sheets)](https://docs.google.com/spreadsheets/d/1fmJJvCBhL_fqHFb_lG7ZWX6GXy_0ksuKV4jn6uNvjjA/edit?usp=sharing)  
 
 2. **Demoblaze Website Testing**  
    - Repository: [Selenium Project](https://github.com/username/playwright-repo)  
